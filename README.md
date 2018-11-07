@@ -29,4 +29,5 @@ The dataset has a pre-defined training dataset (6,000 images), development datas
 5. Pickle
 
 *I would recommend atleast 8 Gigs of RAM when you run it on your local machine.* 
-*If you have GPU make use of the Progressive model which is included.*
+
+*If you have GPU make use of the Progressive Model which is included.*
